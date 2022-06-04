@@ -8,10 +8,6 @@ public class FirstThread2 extends Thread{
 		
 	}
 	
-	public void go() {
-		System.out.println("Inside go()...........");
-		more();
-	}
 	 	
 	public void more() {
 		System.out.println("Inside more()...........");
