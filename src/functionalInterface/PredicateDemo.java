@@ -14,7 +14,8 @@ public class PredicateDemo {
 		int x [] = {10, 11, 12, 13, 17, 19, 20, 21, 22, 23, 24, 25};
 		
 		IntPredicate intValue = p -> p % 2 == 0;
-		Arrays.asList(x).stream().filter( intValue).collect(Collectors.toList());
+//		Arrays.asList(x).stream().filter(primeNumber -> intValue.test(primeNumber))
+//		.collect(Collectors.toList());
 		Predicate<Student> lowAge = a -> a.getAge() > 30;
 		Predicate<Student> highAge = a -> a.getAge() < 80;
 		Predicate<Student> equalAge = a -> a.getAge() == 20;
