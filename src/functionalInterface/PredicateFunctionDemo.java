@@ -43,6 +43,12 @@ public class PredicateFunctionDemo {
 		System.out.println(result.size());
 
 
+		Function<Integer, Integer> numberOne = n -> n+1;
+		Function<Integer, Integer> numberTwo = n -> n*n;
+
+		System.out.println(numberOne.andThen(numberTwo).apply(3)); //10
+		System.out.println(numberOne.compose(numberTwo).apply(3));//16
+		System.out.println("Hello");
 	}
 
 }
