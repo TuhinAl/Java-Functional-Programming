@@ -253,7 +253,7 @@ public class CustomData {
 			 new Student(241,"Marissa",3.63,66,"Female",6),
 			 new Student(242,"Thaxter",3.46,45,"Male",4),
 			 new Student(243,"Maxwell",3.54,35,"Male",6),
-			 new Student(244,"Franzen",3.69,46,"Male",2),
+			 new Student(244,"Franzen",3.99,46,"Male",2),
 			 new Student(245,"Joannes",3.34,73,"Female",4),
 			 new Student(246,"Matthiew",3.48,64,"Male",3),
 			 new Student(247,"Larissa",3.7,83,"Female",1),
