@@ -1,30 +1,35 @@
 package collections;
 
 public class Role {
- private String roleName;
- private String roleId;
- 
-public Role(String roleName, String roleId) {
-	this.roleName = roleName;
-	this.roleId = roleId;
-}
+	private String roleName;
+	private String roleId;
 
-public String getRoleName() {
-	return roleName;
-}
+	public Role(String roleName, String roleId) {
+		this.roleName = roleName;
+		this.roleId = roleId;
+	}
 
-public void setRoleName(String roleName) {
-	this.roleName = roleName;
-}
+	public String getRoleName() {
+		return roleName;
+	}
 
-public String getRoleId() {
-	return roleId;
-}
+	public void setRoleName(String roleName) {
+		this.roleName = roleName;
+	}
 
-public void setRoleId(String roleId) {
-	this.roleId = roleId;
-}
+	public String getRoleId() {
+		return roleId;
+	}
 
+	public void setRoleId(String roleId) {
+		this.roleId = roleId;
+	}
 
- 
+	@Override
+	public String toString() {
+		return "Role [roleName=" + roleName + ", roleId=" + roleId + "]";
+	}
+	
+	
+
 }
