@@ -71,6 +71,7 @@ public class ParallelStream {
 		
 		
 		// sum num of array [there 2 ways]
+		//
 
 	}
 
