@@ -1,11 +1,11 @@
 package stream;
 
+import collections.Role;
+import collections.Worker;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-
-import collections.Role;
-import collections.Worker;
 
 public class FlatMapDemo {
 

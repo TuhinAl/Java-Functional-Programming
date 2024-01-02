@@ -1,9 +1,9 @@
 package streamApi.chapterThree;
 
+import streamApi.chapterTwo.Apple;
+
 import java.util.ArrayList;
 import java.util.List;
-
-import streamApi.chapterTwo.Apple;
 
 public class Lambdas {
 

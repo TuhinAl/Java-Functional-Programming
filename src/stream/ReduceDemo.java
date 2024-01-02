@@ -1,11 +1,11 @@
 package stream;
 
+import collections.Invoice;
+
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.ArrayList;
 import java.util.List;
-
-import collections.Invoice;
 
 public class ReduceDemo {
 public static void main(String[] args) {

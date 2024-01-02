@@ -1,10 +1,10 @@
 package basic;
 
-public class Stringpermutation {
+public class StringPermutation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Stringpermutation.permutation2("123", 0, "123".length()-1);
+		StringPermutation.permutation2("123", 0, "123".length()-1);
 	}
 	
 	public static void permutation2(String string, int start, int end) {

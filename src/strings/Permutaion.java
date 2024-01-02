@@ -1,7 +1,5 @@
 package strings;
 
-import basic.Stringpermutation;
-
 public class Permutaion {
 	
 	static void permute(String text, int start, int end) {

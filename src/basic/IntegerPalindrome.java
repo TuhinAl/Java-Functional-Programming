@@ -1,7 +1,5 @@
 package basic;
 
-import java.util.Stack;
-
 public class IntegerPalindrome {
 	public static String palindrome(Integer number) {
 		if(number < 0 || (number != 0 && number % 10 == 0)) {

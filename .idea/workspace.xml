@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89390d97-b402-492a-a5f8-6f497e8128c3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java-Functional-Programming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/ChiperText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/DecodeString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/DuplicateCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/IntegerPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/MatrixAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/MatrixMulti.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/PrimeCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/ReverseArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/ReverseSentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/StringPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/basic/Stringpermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/ConcurrentHashMapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/DuplicateCharacters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/HashMapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/HashSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/HashTableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/LinkedHashMapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/LinkedhashSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/ListPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/StringPermutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/functionalInterface/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/functionalInterface/DemoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/functionalInterface/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/BoundedTypeParameter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/Container.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/GenericDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/GenericInheritanceAndSubtype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/GenericTheory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/GenericTypeInference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/MultipleType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/RawTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/StringReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/TestClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/generic/commoPrefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/streamApi/chapterThree/ApplePredicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/streamApi/chapterThree/Lambdas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/streamApi/chapterTwo/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/streamApi/chapterTwo/FilteringApples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/streamApi/chapterTwo/PermutationArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/DataAggregator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/EmailCampaign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/FirstThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/FirstThread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/ThreadPriorityDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tree/PreorderRecursive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tree/PreorederTraverse$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tree/PreorederTraverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tree/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tree/SolutionIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/Stringpermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/StringPermutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strings/Permutaion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/Permutaion.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2aOyIxA1vLyLYRDzozCmiaKh8jz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/tuhin/Public/AREA/studyStation/Java-Functional-Programming",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Info" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.Info" />
+      <module name="Java-Functional-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Java-Functional-Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.PrimeCheck" />
+      <module name="Java-Functional-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.StringPermutation" />
+      <module name="Java-Functional-Programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="Java-Functional-Programming" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Info" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.PrimeCheck" />
+      <item itemvalue="Application.StringPermutation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Info" />
+        <item itemvalue="Application.StringPermutation" />
+        <item itemvalue="Application.PrimeCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89390d97-b402-492a-a5f8-6f497e8128c3" name="Changes" comment="" />
+      <created>1704203843721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704203843721</updated>
+      <workItem from="1704203844720" duration="2765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

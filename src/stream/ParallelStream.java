@@ -1,14 +1,13 @@
 package stream;
 
+import functionalInterface.CustomData;
+import functionalInterface.Student;
+
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
-import java.util.function.Function;
 import java.util.stream.Collectors;
-
-import functionalInterface.CustomData;
-import functionalInterface.Student;
 
 public class ParallelStream {
 
@@ -32,7 +31,7 @@ public class ParallelStream {
 		System.out.println(studentGroupByAndCount);
 
 
-		//Group by gender – Collectors.groupingBy and Collectors.mapping example.
+		//Group by gender ï¿½ Collectors.groupingBy and Collectors.mapping example.
 		Map<String, List<Student>> groupByGender  = studentList
 				.stream()
 				.collect(

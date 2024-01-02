@@ -1,10 +1,10 @@
 package stream;
 
-import java.util.List;
-import java.util.stream.Collectors;
-
 import functionalInterface.CustomData;
 import functionalInterface.Student;
+
+import java.util.List;
+import java.util.stream.Collectors;
 
 public class MapDemo {
 	public static void main(String[] args) {
